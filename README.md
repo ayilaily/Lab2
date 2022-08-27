@@ -1,2 +1,2 @@
-# hello-world
-for Lab 1 CSCI 111
+# Lab 2
+for Lab 2 CSCI 111
